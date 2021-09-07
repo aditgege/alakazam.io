@@ -13,8 +13,10 @@
     "@tailwindcss/typography": "^0.4.1",
     "autoprefixer": "^9",
     "gridsome": "^0.7.0",
+    "gridsome-plugin-netlify-cms": "^1.0.9",
     "gridsome-plugin-remark-prismjs-all": "^0.4.8",
+    "netlify-cms": "^2.10.160",
     "postcss": "^7",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.10"
   }
 }
